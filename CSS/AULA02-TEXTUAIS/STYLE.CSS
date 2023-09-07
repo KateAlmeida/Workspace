@@ -1,0 +1,12 @@
+h1{
+    background-color: aquamarine;
+    text-shadow: 3px 3px 3px #708090 ;
+}
+
+p{
+    background-color:#00BFFF ;
+    font-size: 30px; 
+    font-style: italic;
+    font-weight: 900;/* 0 até 255 8/
+    /* hexadecimal 0 até a letra f= 255 8*/
+}

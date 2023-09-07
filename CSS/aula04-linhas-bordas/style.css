@@ -1,0 +1,33 @@
+#primeiradiv{
+    /*grossura da borda/ estilo borda/ cor da borda */
+    border: 2px dashed #FF69B4;
+}
+
+#segundadiv{
+    /*grossura da borda/ estilo borda/ cor da borda */
+border: 2px dotted #FFB6C1;
+}
+
+/*ajustando largura e altura da imagem*/
+
+img{
+ width: 500px;/*largura*/
+  height: 500px;/*altura*/
+}
+#foto1{
+    width: 500;
+    height: 500;
+}
+
+#foto2{
+    width: 500;
+    height: 500;
+}
+/*imagem de fundo utilizando backgroud-image*/
+body{
+    background-image: url("./img/fundo.jpg");
+    background-position: 500;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 500px 500px;
+}
